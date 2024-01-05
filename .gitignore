@@ -1,0 +1,11 @@
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.pdf
+*.pptx
+*.zip
+*.vs
+*.exe
+*.pdb
+X64
